@@ -1,0 +1,6 @@
+```python
+# Quick Replit Deploy Note (add to pyproject.toml or requirements.txt)
+# flask==3.0.0
+# Run: python main.py -> Visit webview!
+print("Phoenix v2.0 deployed! Share: https://your-repl-link.phoenix.triad 🎄")
+```
